@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Valentino Sánchez Raverta
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta de la tecnología con un interés particular en leguajes de programación. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
