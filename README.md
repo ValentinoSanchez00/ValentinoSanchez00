@@ -20,9 +20,12 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 
 ## Otras Estadísticas
 
-- Top Lenguajes: ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinoSanchez00&layout=compact)
-- Contribuciones Diarias: ![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSanchez00)
-- Gráfico de Actividad: ![Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=ValentinoSanchez00)
+- Top Lenguajes:
+-  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinoSanchez00&layout=compact)
+- Contribuciones Diarias:
+-  ![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSanchez00)
+- Gráfico de Actividad:
+-  ![Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=ValentinoSanchez00)
 
 ## Contacto
 
