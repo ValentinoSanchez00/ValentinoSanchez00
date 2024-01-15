@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Valentino Sánchez Raverta
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta de la tecnología con un interés particular en leguajes de programación. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta de la tecnología con un interés particular en lenguajes de programación. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
 ## Sobre Mí
 
@@ -11,21 +11,23 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 
 ## Proyectos Destacados
 
-- 🚀 [UNO-Game](https://github.com/ValentinoSanchez00/UNO_game): Se trata del juego del UNO hecho con JavaScript.
-- 🌟 [Shushi-Page](https://github.com/ValentinoSanchez00/shushi_page): Una página de un restaurante japonés hecha con boostrap.
+- 🚀 [UNO-Game](https://github.com/ValentinoSanchez00/UNO_game): ¡El juego del UNO hecho con JavaScript!
+- 🌟 [Shushi-Page](https://github.com/ValentinoSanchez00/shushi_page): Una página de un restaurante japonés hecha con Bootstrap.
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ValentinoSanchez00&show_icons=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ValentinoSanchez00&show_icons=true&count_private=true&theme=light)
 
 ## Otras Estadísticas
 
 - Top Lenguajes:
--  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinoSanchez00&layout=compact)
+  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinoSanchez00&layout=compact&theme=light)
 - Contribuciones Diarias:
--  ![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSanchez00)
-- Gráfico de Actividad:
--  ![Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=ValentinoSanchez00)
+  ![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSanchez00&theme=light)
+
+## Lenguajes que Utilizo
+
+![Lenguajes que Utilizo](https://github-readme-stats.vercel.app/api/wakatime?username=ValentinoSanchez00&layout=compact&theme=light)
 
 ## Contacto
 
@@ -37,3 +39,4 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 Agradezco tu visita a mi perfil. ¡No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o colaboración en mente!
 
 ⭐️ ¡Gracias por tu interés! ⭐️
+
