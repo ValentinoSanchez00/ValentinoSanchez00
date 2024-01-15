@@ -29,9 +29,6 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
   
   ![Contribuciones Diarias](https://github-readme-streak-stats.herokuapp.com/?user=ValentinoSanchez00&theme=light)
 
-## Lenguajes que Utilizo
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinoSanchez00&layout=compact&theme=light)
 
 ## Contacto
 
