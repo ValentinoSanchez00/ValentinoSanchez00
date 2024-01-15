@@ -13,10 +13,6 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 
 - 🚀 [UNO-Game](https://github.com/ValentinoSanchez00/UNO_game): ¡El juego del UNO hecho con JavaScript!
 - 🌟 [Shushi-Page](https://github.com/ValentinoSanchez00/shushi_page): Una página de un restaurante japonés hecha con Bootstrap.
-
-## Estadísticas de GitHub
-
-
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ValentinoSanchez00&show_icons=true&theme=tokyonight)
 
 ## Otras Estadísticas
