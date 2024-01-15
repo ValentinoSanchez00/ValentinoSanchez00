@@ -39,3 +39,6 @@ Agradezco tu visita a mi perfil. ¡No dudes en explorar mis proyectos y contacta
 
 ⭐️ ¡Gracias por tu interés! ⭐️
 
+![BliM](https://github.com/ValentinoSanchez00/ValentinoSanchez00/assets/148900241/d9abc76a-d678-4121-9db8-0b72edba351c)
+
+
