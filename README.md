@@ -31,7 +31,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 
 ## Lenguajes que Utilizo
 
-![Lenguajes que Utilizo](https://github-readme-stats.vercel.app/api/wakatime?username=ValentinoSanchez00&layout=compact&theme=light)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinoSanchez00&layout=compact&theme=light)
 
 ## Contacto
 
