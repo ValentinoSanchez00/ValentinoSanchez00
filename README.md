@@ -38,7 +38,10 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 Agradezco tu visita a mi perfil. ¡No dudes en explorar mis proyectos y contactarme si tienes alguna pregunta o colaboración en mente!
 
 ⭐️ ¡Gracias por tu interés! ⭐️
+<div style="text-align:center;">
+  <img src="https://github.com/ValentinoSanchez00/ValentinoSanchez00/assets/148900241/d9abc76a-d678-4121-9db8-0b72edba351c" alt="BliM">
+</div>
 
-![BliM](https://github.com/ValentinoSanchez00/ValentinoSanchez00/assets/148900241/d9abc76a-d678-4121-9db8-0b72edba351c)
+
 
 
