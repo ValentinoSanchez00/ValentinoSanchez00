@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 - 📚 Comparto mis conocimientos a través de GitHub
 
 ## Proyectos Destacados
-
+- 🧑‍🏫 [Smash-Tala](https://github.com/ValentinoSanchez00/Smash_tala): TFG Presonal de un servicio de comida rápida
 - 🚀 [UNO-Game](https://github.com/ValentinoSanchez00/UNO_game): ¡El juego del UNO hecho con JavaScript!
 - 🌟 [Shushi-Page](https://github.com/ValentinoSanchez00/shushi_page): Una página de un restaurante japonés hecha con Bootstrap.
 
