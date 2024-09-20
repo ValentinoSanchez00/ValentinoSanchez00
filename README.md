@@ -8,7 +8,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador, estudiante, entusiasta d
 - 🎓 Estudiante de IES Ribera del Tajo
 - 🌐 Explorando nuevas tecnologías y tendencias
 - 📚 Comparto mis conocimientos a través de GitHub
-- ℹ️ Actualmente trabajando en Up Spain
+- ℹ️ Actualmente trabajando en STEMDO
 
 ## Proyectos Destacados
 - 🧑‍🏫 [Smash-Tala](https://github.com/ValentinoSanchez00/Smash_tala): TFG Presonal de un servicio de comida rápida
